@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "PitchStock",
+    "slug": "pitchstock",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android"],
+    "plugins": [
+      "expo-secure-store"
+    ]
+  }
+}
